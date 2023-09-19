@@ -1,0 +1,12 @@
+{
+    "Api": {
+        "Port": 9000
+    },
+    "Database": {
+        "Host": "",
+        "Port": 0,
+        "Username": "",
+        "Password": "",
+        "Name": ""
+    }
+}
